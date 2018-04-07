@@ -1,0 +1,18 @@
+#products_form
+{
+	margin-top:20px;
+}
+
+#product_no{
+width: 300px;
+border: 1px solid #ccc;
+height: 32px;
+}
+
+
+.woo_success_message
+{
+	color: #177530;
+font-size: 18px;
+line-height: 48px;
+}
